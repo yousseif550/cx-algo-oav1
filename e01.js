@@ -16,4 +16,4 @@ return count
 
 }
 
-console.log('nWord:', HowManyCamelCase("jeSuisYousseif"));
+console.log('nWord:', HowManyCamelCase("VHUIDVVISDB"));
